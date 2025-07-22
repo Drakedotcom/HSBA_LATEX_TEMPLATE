@@ -1,7 +1,7 @@
 # LATEX-Template für den Praxisbericht bei der HSBA
 
 ## Allgemeines
-Die hier zu findenen Dateien bilden ein Template, das einen Praxisbericht der HSBA abbildet. Es wird also zum einen auf die Chicago-Zitierweise sowie auf Regularien wie die Declaration of Honour geachtet. 
+Die hier zu findenen Dateien bilden ein Template, das einen Praxisbericht der HSBA abbildet. Es wird also auf die Chicago-Zitierweise, Seitennummerierungen sowie auf Regularien wie die Declaration of Honour geachtet. 
 
 Die abgelegten Dateien beinhalten keinen Build - dieser muss selbst über einen eigenen Compiler erstellt werden. Es ist keine LATEX-Installation vorhanden und keine Perl-Umgebug, diese müssen ggf. selbst installiert werden.
 
@@ -48,7 +48,7 @@ Für mehr Informationen: https://www.heise.de/tipps-tricks/LaTeX-Abbildungsverze
 ### 3. Tabellenverzeichnis
 Wie das Abbildungsverzeichnis wird auch das Tabellenverzeichnis generiert. Wieder muss der Befehl `\caption` in der __table-Struktur__ sein, um sie ins Verzeichnis zu überführen.
 ### 4. Literaturverzeichnis
-Das Literaturverzeichnis baut sich automatisch anhand der genutzten Quellen auf. Die Quellen müssen manuell unter __Literatur/literatur.bib__ gepflegt und angelegt werden. Die Quellen tauchen erst im Verzeichnis auf, wenn diese auch im Text zitiert werden.
+Das Literaturverzeichnis baut sich automatisch anhand der genutzten Quellen auf. Die Quellen müssen manuell unter __Literatur/literatur.bib__ gepflegt und angelegt werden. Die Quellen tauchen erst im Verzeichnis auf, wenn diese auch im Text zitiert werden. Sollten keine Quellen zitiert werden, generiert sich auch das Literaturverzeichnis nicht.
 
 Siehe https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex#Enter_\(\mathrm{Bib\TeX}\) ab Punkt 4.
 
