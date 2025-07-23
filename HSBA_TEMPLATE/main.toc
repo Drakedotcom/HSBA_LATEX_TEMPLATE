@@ -1,0 +1,12 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{Inhaltsverzeichnis}{I}{}%
+\contentsline {section}{Abkürzungsverzeichnis}{II}{}%
+\contentsline {section}{Abbildungsverzeichnis}{III}{}%
+\contentsline {section}{Tabellenverzeichnis}{IV}{}%
+\contentsline {section}{\numberline {1}Einleitung}{1}{}%
+\contentsline {section}{Literaturverzeichnis}{II}{}%
+\contentsline {section}{KI Tool-Dokumentation}{III}{}%
+\contentsline {section}{Anhänge}{IV}{}%
+\contentsline {subsection}{Anhang 1}{IV}{}%
+\contentsline {subsection}{Anhang 2}{IV}{}%
+\contentsline {section}{Declaration of Honor}{V}{}%
